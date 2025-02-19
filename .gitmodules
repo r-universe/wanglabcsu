@@ -1,4 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/wanglabcsu/wanglabcsu.r-universe.dev
 	branch = HEAD
+[submodule "blit"]
+	path = blit
+	url = https://github.com/WangLabCSU/blit
+[submodule "regverse"]
+	path = regverse
+	url = https://github.com/WangLabCSU/regverse
