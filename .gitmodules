@@ -8,6 +8,6 @@
 [submodule "bregr"]
 	path = bregr
 	url = https://github.com/WangLabCSU/bregr
-[submodule "scmire"]
-	path = scmire
+[submodule "mire"]
+	path = mire
 	url = https://github.com/WangLabCSU/mire
