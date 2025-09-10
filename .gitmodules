@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/wanglabcsu/wanglabcsu.r-universe.dev
 	branch = HEAD
+[submodule "SigBridgeR"]
+	path = SigBridgeR
+	url = https://github.com/WangLabCSU/SigBridgeR
 [submodule "blit"]
 	path = blit
 	url = https://github.com/WangLabCSU/blit
