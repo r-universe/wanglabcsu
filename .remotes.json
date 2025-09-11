@@ -1,0 +1,32 @@
+[
+  {
+    "package": "IDConverter",
+    "url": "https://github.com/ShixiangWang/IDConverter",
+    "via": ["SigBridgeR"],
+    "from": "SigBridgeR"
+  },
+  {
+    "package": "ScPP",
+    "url": "https://github.com/WangX-Lab/ScPP",
+    "via": ["SigBridgeR"],
+    "from": "SigBridgeR"
+  },
+  {
+    "package": "Scissor",
+    "url": "https://github.com/sunduanchen/Scissor",
+    "via": ["SigBridgeR"],
+    "from": "SigBridgeR"
+  },
+  {
+    "package": "scAB",
+    "url": "https://github.com/Qinran-Zhang/scAB",
+    "via": ["SigBridgeR"],
+    "from": "SigBridgeR"
+  },
+  {
+    "package": "scPAS",
+    "url": "https://github.com/aiminXie/scPAS",
+    "via": ["SigBridgeR"],
+    "from": "SigBridgeR"
+  }
+]
