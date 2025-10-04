@@ -1,11 +1,5 @@
 [
   {
-    "package": "IDConverter",
-    "url": "https://github.com/ShixiangWang/IDConverter",
-    "via": ["SigBridgeR"],
-    "from": "SigBridgeR"
-  },
-  {
     "package": "ScPP",
     "url": "https://github.com/WangX-Lab/ScPP",
     "via": ["SigBridgeR"],

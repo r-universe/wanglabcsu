@@ -2,10 +2,6 @@
 	path = .registry
 	url = https://github.com/wanglabcsu/wanglabcsu.r-universe.dev
 	branch = HEAD
-[submodule "IDConverter"]
-	path = IDConverter
-	url = https://github.com/ShixiangWang/IDConverter
-	registered = false
 [submodule "ScPP"]
 	path = ScPP
 	url = https://github.com/WangX-Lab/ScPP
