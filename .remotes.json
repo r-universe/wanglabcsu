@@ -1,7 +1,13 @@
 [
   {
+    "package": "ALRA",
+    "url": "https://github.com/Exceret/ALRA",
+    "via": ["SigBridgeR"],
+    "from": "SigBridgeR"
+  },
+  {
     "package": "DEGAS",
-    "url": "https://github.com/tsteelejohnson91/DEGAS",
+    "url": "https://github.com/Exceret/DEGAS",
     "via": ["SigBridgeR"],
     "from": "SigBridgeR"
   },
@@ -12,26 +18,51 @@
     "from": "SigBridgeR"
   },
   {
+    "package": "LPSGL",
+    "url": "https://github.com/Exceret/LPSGL",
+    "via": ["SigBridgeR"],
+    "from": "SigBridgeR"
+  },
+  {
+    "package": "PIPET",
+    "url": "https://github.com/Exceret/PIPET",
+    "via": ["SigBridgeR"],
+    "from": "SigBridgeR"
+  },
+  {
     "package": "ScPP",
-    "url": "https://github.com/WangX-Lab/ScPP",
+    "url": "https://github.com/Exceret/ScPP",
     "via": ["SigBridgeR"],
     "from": "SigBridgeR"
   },
   {
     "package": "Scissor",
-    "url": "https://github.com/sunduanchen/Scissor",
+    "url": "https://github.com/Exceret/Scissor",
     "via": ["SigBridgeR"],
     "from": "SigBridgeR"
   },
   {
+    "package": "SigBridgeRUtils",
+    "url": "https://github.com/WangLabCSU/SigBridgeRUtils",
+    "via": ["SigBridgeR", "ALRA"],
+    "from": "SigBridgeR"
+  },
+  {
+    "package": "fastRPCA",
+    "url": "https://github.com/KlugerLab/rpca-mkl",
+    "via": ["SigBridgeR", "ALRA"],
+    "subdir": "fastRPCA",
+    "from": "SigBridgeR"
+  },
+  {
     "package": "scAB",
-    "url": "https://github.com/Qinran-Zhang/scAB",
+    "url": "https://github.com/Exceret/scAB",
     "via": ["SigBridgeR"],
     "from": "SigBridgeR"
   },
   {
     "package": "scPAS",
-    "url": "https://github.com/aiminXie/scPAS",
+    "url": "https://github.com/Exceret/scPAS",
     "via": ["SigBridgeR"],
     "from": "SigBridgeR"
   }

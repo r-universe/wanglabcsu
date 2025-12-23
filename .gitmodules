@@ -2,39 +2,60 @@
 	path = .registry
 	url = https://github.com/wanglabcsu/wanglabcsu.r-universe.dev
 	branch = HEAD
+[submodule "ALRA"]
+	path = ALRA
+	url = https://github.com/Exceret/ALRA
+	registered = false
 [submodule "DEGAS"]
 	path = DEGAS
-	url = https://github.com/tsteelejohnson91/DEGAS
+	url = https://github.com/Exceret/DEGAS
 	registered = false
 [submodule "IDConverter"]
 	path = IDConverter
 	url = https://github.com/ShixiangWang/IDConverter
 	registered = false
+[submodule "LPSGL"]
+	path = LPSGL
+	url = https://github.com/Exceret/LPSGL
+	registered = false
+[submodule "PIPET"]
+	path = PIPET
+	url = https://github.com/Exceret/PIPET
+	registered = false
 [submodule "ScPP"]
 	path = ScPP
-	url = https://github.com/WangX-Lab/ScPP
+	url = https://github.com/Exceret/ScPP
 	registered = false
 [submodule "Scissor"]
 	path = Scissor
-	url = https://github.com/sunduanchen/Scissor
+	url = https://github.com/Exceret/Scissor
 	registered = false
 [submodule "SigBridgeR"]
 	path = SigBridgeR
 	url = https://github.com/WangLabCSU/SigBridgeR
+[submodule "SigBridgeRUtils"]
+	path = SigBridgeRUtils
+	url = https://github.com/WangLabCSU/SigBridgeRUtils
+	registered = false
 [submodule "blit"]
 	path = blit
 	url = https://github.com/WangLabCSU/blit
 [submodule "bregr"]
 	path = bregr
 	url = https://github.com/WangLabCSU/bregr
+[submodule "fastRPCA"]
+	path = fastRPCA
+	url = https://github.com/KlugerLab/rpca-mkl
+	subdir = fastRPCA
+	registered = false
 [submodule "mire"]
 	path = mire
 	url = https://github.com/WangLabCSU/mire
 [submodule "scAB"]
 	path = scAB
-	url = https://github.com/Qinran-Zhang/scAB
+	url = https://github.com/Exceret/scAB
 	registered = false
 [submodule "scPAS"]
 	path = scPAS
-	url = https://github.com/aiminXie/scPAS
+	url = https://github.com/Exceret/scPAS
 	registered = false
