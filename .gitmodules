@@ -48,6 +48,9 @@
 	url = https://github.com/KlugerLab/rpca-mkl
 	subdir = fastRPCA
 	registered = false
+[submodule "geokit"]
+	path = geokit
+	url = https://github.com/WangLabCSU/geokit
 [submodule "mire"]
 	path = mire
 	url = https://github.com/WangLabCSU/mire
