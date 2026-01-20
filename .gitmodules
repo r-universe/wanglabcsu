@@ -62,3 +62,7 @@
 	path = scPAS
 	url = https://github.com/Exceret/scPAS
 	registered = false
+[submodule "tidycheckUsage"]
+	path = tidycheckUsage
+	url = https://github.com/yonicd/tidycheckUsage
+	registered = false

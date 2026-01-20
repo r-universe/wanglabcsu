@@ -65,5 +65,11 @@
     "url": "https://github.com/Exceret/scPAS",
     "via": ["SigBridgeR"],
     "from": "SigBridgeR"
+  },
+  {
+    "package": "tidycheckUsage",
+    "url": "https://github.com/yonicd/tidycheckUsage",
+    "via": ["SigBridgeR"],
+    "from": "SigBridgeR"
   }
 ]
