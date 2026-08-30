@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/wanglabcsu/wanglabcsu.r-universe.dev
 	branch = HEAD
+[submodule "PERCEPTIONx"]
+	path = PERCEPTIONx
+	url = https://github.com/WangLabCSU/PERCEPTIONx
 [submodule "SigBridgeR"]
 	path = SigBridgeR
 	url = https://github.com/WangLabCSU/SigBridgeR
@@ -17,3 +20,6 @@
 [submodule "mire"]
 	path = mire
 	url = https://github.com/WangLabCSU/mire
+[submodule "rpkgkit"]
+	path = rpkgkit
+	url = https://github.com/WangLabCSU/rpkgkit
